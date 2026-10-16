@@ -1,0 +1,75 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #A2A44C;
+}
+
+.borde {
+    background-color: #FA023C
+}
+.caja1 {
+    background-color: #FA6900 ;
+    height: 100px;
+}
+
+.caja2 {
+    background-color: #F38630 ;
+    height: 100px;
+}
+
+.caja3 {
+    background-color: #A7DBD8 ;
+    height: 100px;
+}
+
+.caja4 {
+    background-color:#69D2E7 ;
+    height: 100px;
+}
+
+.caja5 {
+    background-color: #E0E4CC ;
+    height: 100px;
+}
+
+.caja6 {
+    background-color: #5E412F;
+    height: 100px;
+}
+
+.caja7 {
+    background-color:#FCEBB6 ;
+    height: 100px;
+}
+
+.caja8 {
+    background-color:#B3204D ;
+    height: 100px;
+}
+
+.caja9 {
+    background-color: #D1C089 ;
+    height: 100px;
+}
+
+.caja10 {
+    background-color: #FCEBB6 ;
+    height: 100px;
+}
+
+.caja11 {
+    background-color: #493736 ;
+    height: 100px;
+}
+
+.caja12{
+    background-color: #99B2B7 ;
+    height: 100px;
+}
+
+.caja13{
+    background-color:#0ABFBC ;
+    height: 100px;
+}
